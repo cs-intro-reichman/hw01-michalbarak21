@@ -14,7 +14,7 @@ public class LinearEq {
 		// Calculates the value of x given the 3 input values
 		// Note that in task description we can assume the value of a cannot be 0! 
 		double x = (c - b) / a;
-		// Prints out the linear equation for user to view, then tha calculated value of x
+		// Prints out the linear equation for user to view, then the calculated value of x
 		System.out.println(a + " * x + " + b + " = " + c);
 		System.out.println("x = " + x);
 
