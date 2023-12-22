@@ -15,7 +15,7 @@ public class LinearEq {
 		// Note that in task description we can assume the value of a cannot be 0! 
 		double x = (c - b) / a;
 		// Prints out the linear equation for user to view, then tha calculated value of x
-		System.out.println(a + "*x + " + b + " = " + c);
+		System.out.println(a + " * x + " + b + " = " + c);
 		System.out.println("x = " + x);
 
 	}
